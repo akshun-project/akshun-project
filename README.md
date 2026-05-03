@@ -58,15 +58,3 @@ A productivity-driven platform to help students organize schedules, daily goals 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshun-project&layout=compact&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshun-project&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=akshun-project&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
