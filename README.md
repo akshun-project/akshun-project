@@ -49,11 +49,3 @@ Authentication based team workflow application for creating, assigning, tracking
 ### 🔹 [StudyFlow — Student Productivity Manager](https://github.com/akshun-project/StudyFlow)
 
 A productivity-driven platform to help students organize schedules, daily goals and learning tasks.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshun-project&show_icons=true&theme=tokyonight" />
-</p>
