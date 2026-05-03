@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Akshun Jindal</h1>
+<h1 align="center">Hi 👋, I'm Akshun Jindal</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+DSA+Enthusiast;Building+Modern+Web+Applications;Passionate+About+Clean+UI%2FUX+and+Backend+Logic" alt="Typing SVG" />
@@ -28,7 +28,10 @@ Passionate about creating scalable full-stack products, clean user experiences, 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,postman,tailwind,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" /><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java" /><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,tailwind" /><br><br>
+<img src="https://skillicons.dev/icons?i=vscode,vercel" />
 </p>
 
 ---
@@ -53,8 +56,4 @@ A productivity-driven platform to help students organize schedules, daily goals 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshun-project&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshun-project&layout=compact&theme=tokyonight" />
 </p>
