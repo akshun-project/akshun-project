@@ -1,8 +1,16 @@
-<h1 align="center">Hi 👋, I'm Akshun Jindal</h1>
-<h3 align="center">Full Stack Developer | Java Programmer | Building Modern Web Applications</h3>
+ <h1 align="center">Hi 👋, I'm Akshun Jindal</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+DSA+Enthusiast;Building+Modern+Web+Applications;Passionate+About+Clean+UI%2FUX+and+Backend+Logic" alt="Typing SVG" />
+</h3>
 
 <p align="center">
 Passionate about creating scalable full-stack products, clean user experiences, and solving real-world problems through efficient code.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/akshun-jindal-9534b0303/"><img src="https://img.shields.io/badge/LinkedIn-Akshun%20Jindal-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:akshunjindal7889@gmail.com"><img src="https://img.shields.io/badge/Gmail-akshunjindal7889%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
@@ -19,7 +27,7 @@ Passionate about creating scalable full-stack products, clean user experiences, 
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,postman,tailwind,vscode,vercel" />
 </p>
 
@@ -39,10 +47,6 @@ Authentication based team workflow application for creating, assigning, tracking
 
 A productivity-driven platform to help students organize schedules, daily goals and learning tasks.
 
-### 🔹 Java DSA Practice Repository
-
-Structured collection of problem solving patterns, algorithms and interview preparation questions.
-
 ---
 
 ## 📊 GitHub Stats
@@ -55,15 +59,14 @@ Structured collection of problem solving patterns, algorithms and interview prep
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshun-project&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🌐 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/akshun-jindal-9534b0303/
-* Gmail: [akshunjindal7889@gmail.com](mailto:akshunjindal7889@gmail.com)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshun-project&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📈 Profile Views
 
-![](https://komarev.com/ghpvc/?username=akshun-project\&label=Profile%20Views\&color=0e75b6\&style=flat)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=akshun-project&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
