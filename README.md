@@ -42,9 +42,10 @@ Passionate about creating scalable full-stack products, clean user experiences, 
 
 Premium UI/UX focused responsive platform designed to combine educational support with emergency assistance resources.
 
-### 🔹 [Team Task Manager — MERN Collaboration Platform](https://github.com/akshun-project/team-task-manager)
+### 🔹 [EventShield — Fault Tolerant Event Ingestion Simulator](https://github.com/akshun-project/eventshield-fault-tolerant-ingestion)
 
-Authentication based team workflow application for creating, assigning, tracking and managing project tasks.
+Full stack event ingestion and monitoring application for processing client events, detecting duplicate requests, handling invalid data, and testing database failure scenarios.
+
 
 ### 🔹 [StudyFlow — Student Productivity Manager](https://github.com/akshun-project/StudyFlow)
 
